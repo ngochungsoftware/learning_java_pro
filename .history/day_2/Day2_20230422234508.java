@@ -57,9 +57,7 @@ public class Day2 {
         int a = 50, b = 60, c = 70;
         System.out.println(a + b + c);
 
-        int m,n,k;
-        m = n = k =50;
-        System.out.println(m + n + k);
+        int x 
     
     
     

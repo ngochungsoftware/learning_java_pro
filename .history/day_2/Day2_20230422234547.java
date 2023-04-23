@@ -59,7 +59,7 @@ public class Day2 {
 
         int m,n,k;
         m = n = k =50;
-        System.out.println(m + n + k);
+        Sy
     
     
     

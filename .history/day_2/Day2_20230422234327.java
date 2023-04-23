@@ -52,14 +52,7 @@ public class Day2 {
         System.out.println(fullName);
         int x = 5;
         int y = 6;
-        int z = 7;
-        System.out.println(x + y + z);
-        int a = 50, b = 60, c = 70;
-        System.out.println(a + b + c);
-
-        int m,n,k;
-        m = n = k =50;
-        System.out.println(m + n + k);
+        int 
     
     
     

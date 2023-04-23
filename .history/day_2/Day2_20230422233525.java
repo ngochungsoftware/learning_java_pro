@@ -37,32 +37,10 @@ public class Day2 {
         System.out.println(myNum);
         
         float myFloatNum = 5.99f;
-        char myLetter = 'D';
+        char myLetter = 'D';  
         boolean myBool = true;
         String myText = "Hello";
         System.out.println(myFloatNum);
-        System.out.println(myLetter);
-        System.out.println(myBool);
-        System.out.println(myText); 
-        String my_name = "John";
-        System.out.println("Hello " + my_name);
-        String firstName = "John ";
-        String lastName = "Doe";
-        String fullName = firstName + lastName;
-        System.out.println(fullName);
-        int x = 5;
-        int y = 6;
-        int z = 7;
-        System.out.println(x + y + z);
-        int a = 50, b = 60, c = 70;
-        System.out.println(a + b + c);
-
-        int m,n,k;
-        m = n = k =50;
-        System.out.println(m + n + k);
-    
-    
-    
+        
     }
-
 }                    

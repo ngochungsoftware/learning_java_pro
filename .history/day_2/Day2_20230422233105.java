@@ -15,13 +15,7 @@ type variableName = value;
 Nếu bạn không muốn người khác (hoặc chính bạn) ghi đè lên các giá trị hiện có, hãy sử dụng từ finalkhóa (từ khóa này sẽ khai báo biến là "cuối cùng" hoặc "hằng số", có nghĩa là không thể thay đổi và chỉ đọc):
 final int myNum = 15;
 myNum = 20;  // will generate an error: cannot assign a value to a final variable
-public class Main {
-  public static void main(String[] args) {
-    final int myNum = 15;
-    myNum = 20; // will generate an error
-    System.out.println(myNum);
-  }
-}
+
 */
 
 public class Day2 {
@@ -35,34 +29,5 @@ public class Day2 {
         System.out.println(myNum);
         myNum = 20;  // myNum is now 20
         System.out.println(myNum);
-        
-        float myFloatNum = 5.99f;
-        char myLetter = 'D';
-        boolean myBool = true;
-        String myText = "Hello";
-        System.out.println(myFloatNum);
-        System.out.println(myLetter);
-        System.out.println(myBool);
-        System.out.println(myText); 
-        String my_name = "John";
-        System.out.println("Hello " + my_name);
-        String firstName = "John ";
-        String lastName = "Doe";
-        String fullName = firstName + lastName;
-        System.out.println(fullName);
-        int x = 5;
-        int y = 6;
-        int z = 7;
-        System.out.println(x + y + z);
-        int a = 50, b = 60, c = 70;
-        System.out.println(a + b + c);
-
-        int m,n,k;
-        m = n = k =50;
-        System.out.println(m + n + k);
-    
-    
-    
     }
-
 }                    
