@@ -21,9 +21,9 @@ Giải pháp để tránh vấn đề này là sử dụng ký tự thoát dấu
 
 Ký tự thoát dấu gạch chéo ngược ( \) biến các ký tự đặc biệt thành ký tự chuỗi:
 Escape character	Result	Description
-\'	                   '	Single quote
-\"	                   "	Double quote
-\\	                   \	Backslash
+\'	'	Single quote
+\"	"	Double quote
+\\	\	Backslash
  */
 
 

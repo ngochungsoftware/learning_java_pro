@@ -16,14 +16,7 @@ nối chuỗi
 Toán +tử có thể được sử dụng giữa các chuỗi để kết hợp chúng. Điều này được gọi là nối :
 
 
-Ki tu dac biet rong java
-Giải pháp để tránh vấn đề này là sử dụng ký tự thoát dấu gạch chéo ngược .
 
-Ký tự thoát dấu gạch chéo ngược ( \) biến các ký tự đặc biệt thành ký tự chuỗi:
-Escape character	Result	Description
-\'	                   '	Single quote
-\"	                   "	Double quote
-\\	                   \	Backslash
  */
 
 
